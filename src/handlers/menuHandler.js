@@ -393,7 +393,7 @@ async function handleMenuBantuan(bot, chatId, messageId) {
 • 💰 Dana akan direfund jika expired/cancel
 
 <b>💰 CARA DEPOSIT:</b>
-• Minimal deposit: <b>Rp2.000</b>
+• Minimal deposit: <b>Rp5.000</b>
 • Maksimal deposit: <b>Rp50.000</b>
 • Metode: <b>QRIS (DANA, OVO, GoPay)</b>
 • Klik menu <b>💳 Deposit</b> lalu masukkan nominal
